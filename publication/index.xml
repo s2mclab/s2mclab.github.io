@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication on S2MC Group</title>
-    <link>https://ntuiot.xyz/publication/</link>
+    <link>https://s2mc.site/publication/</link>
     <description>Recent content in Publication on S2MC Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, S2MC Group. All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="https://ntuiot.xyz/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://s2mc.site/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Undergrad achievements</title>
-        <link>https://ntuiot.xyz/publication/undergrad/</link>
+        <link>https://s2mc.site/publication/undergrad/</link>
         <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
         
-        <guid>https://ntuiot.xyz/publication/undergrad/</guid>
+        <guid>https://s2mc.site/publication/undergrad/</guid>
         <description>Our group has good interest and records in working with well motivated undergraduate students either from our own School and the external on research topics that we know. We guide them to read literature, perform hands-on work, and write the research report on a selected and timely topic, such that they can make their little but novel and publishable contributions. We believe that a senior undergraduate, if willing to undertake exploratory and challenging tasks, is ready for research.</description>
       </item>
       

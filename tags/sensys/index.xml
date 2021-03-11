@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SenSys on S2MC Group</title>
-    <link>https://ntuiot.xyz/tags/sensys/</link>
+    <link>https://s2mc.site/tags/sensys/</link>
     <description>Recent content in SenSys on S2MC Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, S2MC Group. All Rights Reserved</copyright>
     <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://ntuiot.xyz/tags/sensys/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://s2mc.site/tags/sensys/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Qun&#39;s paper presentation at SenSys&#39;19</title>
-        <link>https://ntuiot.xyz/blog/sensys19/</link>
+        <link>https://s2mc.site/blog/sensys19/</link>
         <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/sensys19/</guid>
+        <guid>https://s2mc.site/blog/sensys19/</guid>
         <description>Qun&amp;rsquo;s paper presentation &amp;ldquo;Moving Target Defense for Embedded Deep Visual Sensing against Adversarial Examples&amp;rdquo; at SenSys, New York, Nov 2019.</description>
       </item>
       
       <item>
         <title>Paper presentation at AIChallengeIoT&#39;19</title>
-        <link>https://ntuiot.xyz/blog/aichallengeiot/</link>
+        <link>https://s2mc.site/blog/aichallengeiot/</link>
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/aichallengeiot/</guid>
+        <guid>https://s2mc.site/blog/aichallengeiot/</guid>
         <description>Paper presentation &amp;ldquo;Challenges of Privacy-Preserving Machine Learning in IoT&amp;rdquo;, the First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT&#39;19), New York, Nov 2019.</description>
       </item>
       
       <item>
         <title>The DATA: Data Acquisition to Analysis Workshop at SenSys&#39;18</title>
-        <link>https://ntuiot.xyz/blog/data18/</link>
+        <link>https://s2mc.site/blog/data18/</link>
         <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/data18/</guid>
+        <guid>https://s2mc.site/blog/data18/</guid>
         <description>The DATA: Data Acquisition to Analysis Workshop, SenSys&#39;18, Shenzhen, Nov, 2018.</description>
       </item>
       

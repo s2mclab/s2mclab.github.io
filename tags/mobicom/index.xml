@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MobiCom on S2MC Group</title>
-    <link>https://ntuiot.xyz/tags/mobicom/</link>
+    <link>https://s2mc.site/tags/mobicom/</link>
     <description>Recent content in MobiCom on S2MC Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, S2MC Group. All Rights Reserved</copyright>
     <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://ntuiot.xyz/tags/mobicom/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://s2mc.site/tags/mobicom/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Twilights of Los Cabos</title>
-        <link>https://ntuiot.xyz/blog/loscabos/</link>
+        <link>https://s2mc.site/blog/loscabos/</link>
         <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/loscabos/</guid>
+        <guid>https://s2mc.site/blog/loscabos/</guid>
         <description> Twilights of Los Cabos
   Sunrise in Cabos.
   Art walk at Cabo San Lucas Downtown.
@@ -28,19 +28,19 @@
       
       <item>
         <title>Zhenyu and Rui at Los Cabos</title>
-        <link>https://ntuiot.xyz/blog/zhenyu_rui_loascabos/</link>
+        <link>https://s2mc.site/blog/zhenyu_rui_loascabos/</link>
         <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/zhenyu_rui_loascabos/</guid>
+        <guid>https://s2mc.site/blog/zhenyu_rui_loascabos/</guid>
         <description>Zhenyu and Rui at Los Cabos, Oct 2019</description>
       </item>
       
       <item>
         <title>MobiCom 25th Anniversary</title>
-        <link>https://ntuiot.xyz/blog/mobicom19/</link>
+        <link>https://s2mc.site/blog/mobicom19/</link>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/mobicom19/</guid>
+        <guid>https://s2mc.site/blog/mobicom19/</guid>
         <description> MobiCom 25th Anniversary, on a beach of Los Cabos, Oct 2019
   MobiCom 2019 limited edition!
  </description>
@@ -48,10 +48,10 @@
       
       <item>
         <title>Zhenyu&#39;s Paper Presentation at MobiCom&#39;19</title>
-        <link>https://ntuiot.xyz/blog/zhenyumobicom19/</link>
+        <link>https://s2mc.site/blog/zhenyumobicom19/</link>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ntuiot.xyz/blog/zhenyumobicom19/</guid>
+        <guid>https://s2mc.site/blog/zhenyumobicom19/</guid>
         <description>Zhenyu&amp;rsquo;s paper presentation at ACM MobiCom, Oct 2019</description>
       </item>
       
